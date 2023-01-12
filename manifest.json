@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "TaskSmasher3000",
+    "version": "1.0.0",
+    "permissions": [
+        "notifications"
+      ],
+    "description": "Task manager to make your day simpler and optimaze your time",    
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    } 
+}
